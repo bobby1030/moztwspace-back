@@ -1,0 +1,24 @@
+{
+  "name": "moztwspace-back",
+  "version": "0.0.1",
+  "description": " A Backend Live Status System for MozTW Space",
+  "main": "server.js",
+  "dependencies": {
+    "restify": "~4.0.3",
+    "jsonfile": "~2.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bobby1030/moztwspace-back.git"
+  },
+  "author": "BobbyHo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobby1030/moztwspace-back/issues"
+  }
+}
