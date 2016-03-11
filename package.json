@@ -4,7 +4,7 @@
   "description": " A Backend Live Status System for MozTW Space",
   "main": "server.js",
   "dependencies": {
-    "restify": "~4.0.3",
+    "restify": "~4.0.4",
     "jsonfile": "~2.2.3"
   },
   "devDependencies": {},
